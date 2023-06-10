@@ -28,15 +28,15 @@ Calm and Mindful Gameplay: Engage in gameplay mechanics that prioritize calmness
 ### Contract Address:
 
 
-![Hope](/Assets/Images/H1.jpg)
+![Hope](/Assets/Images/H1.png)
 
-![Hope](/Assets/Images/H2.jpg)
+![Hope](/Assets/Images/H2.png)
 
-![Hope](/Assets/Images/H3.jpg)
+![Hope](/Assets/Images/H3.png)
 
-![Hope](/Assets/Images/H4.jpg)
+![Hope](/Assets/Images/H4.png)
 
-![Hope](/Assets/Images/H5.jpg)
+![Hope](/Assets/Images/H5.png)
 
-![Hope](/Assets/Images/H6.jpg)
+![Hope](/Assets/Images/H6.png)
 
